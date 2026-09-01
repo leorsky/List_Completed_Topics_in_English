@@ -72,3 +72,27 @@ My journey to English B2
 # - It is
 # - We are
 # - They are
+
+
+# 0.4 Basic Question Words
+#
+# Изучил основные вопросительные слова в английском языке.
+#
+# - What — что / какой
+# - Who — кто
+# - Where — где / куда
+# - When — когда
+# - Why — почему
+# - How — как
+# - Which — какой / который
+# - Whose — чей
+#
+# Практика:
+# - What
+# - Who
+# - Where
+# - When
+# - Why
+# - How
+# - Which
+# - Whose
