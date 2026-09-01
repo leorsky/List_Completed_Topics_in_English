@@ -26,3 +26,25 @@ My journey to English B2
 # - He works.
 # - He doesn't work.
 # - Does he work?
+
+
+# 0.2 Personal Pronouns
+#
+# Изучил личные местоимения в английском языке.
+#
+# - I — я
+# - You — ты / вы
+# - He — он
+# - She — она
+# - It — оно / это
+# - We — мы
+# - They — они
+#
+# Практика:
+# - I
+# - You
+# - He
+# - She
+# - It
+# - We
+# - They
